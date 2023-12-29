@@ -1,4 +1,4 @@
-# twitter_sentiment_analysis
+# Twitter_Sentiment_Analysis
 
 # Introduction
 
