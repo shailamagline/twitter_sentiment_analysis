@@ -21,7 +21,7 @@ Understanding public sentiment on topics like climate change is essential for po
 researchers, and organizations. This analysis can inform decision-making, public awareness 
 campaigns, and further research in the field.
 
-#Data Collection
+# Data Collection
 
 Dataset Description:
 We gathered a dataset of 10,000 tweets using the Twitter API. The dataset consists of tweets containing the 
@@ -32,7 +32,7 @@ Data Pre-processing:
 Data pre-processing steps included removing duplicate tweets and handling missing values. We also performed 
 text cleaning to remove special characters and URLs, making the text suitable for analysis.
 
-#Methodology
+## Methodology
 
 Sentiment Analysis Approach:
 We chose Text Blob for sentiment analysis due to its simplicity and effectiveness. Text Blob provides a pretrained sentiment analysis model that assigns polarity scores to text, classifying it as positive, negative, or 
@@ -41,14 +41,14 @@ neutral.
 Data Pre-processing for Sentiment Analysis:
 Before running sentiment analysis, we tokenized the tweet text and removed common stop words. This preprocessing step enhances the accuracy of sentiment classification.
 
-# Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Key Statistics:
  Positive Sentiment: 4,500 tweets (45%)
  Neutral Sentiment: 3,500 tweets (35%)
  Negative Sentiment: 2,000 tweets (20%)
 
-# Sentiment Analysis
+## Sentiment Analysis
 
 Results:
  Positive Sentiment: 45%
@@ -62,24 +62,24 @@ sentiment, with a smaller portion expressing a negative sentiment.
 Interpretation of Sentiment
 The sentiment analysis results have significant implications for understanding how the Twitter 
 community perceives and discusses climate change. Here's a more in-depth analysis:
-# Positive Sentiment (45%):
+## Positive Sentiment (45%):
 The substantial presence of positive sentiment in the tweets suggests that a significant portion of the 
 Twitter community holds a favourable view of climate change-related discussions. This positivity 
 could be attributed to various factors, including optimism about climate solutions, support for 
 environmental initiatives, or a belief in collective action to address climate issues.
-# Neutral Sentiment (35%):
+## Neutral Sentiment (35%):
 A substantial proportion of tweets exhibiting neutral sentiment indicates that a considerable segment 
 of Twitter users may be sharing factual information or news updates related to climate change without 
 expressing a clear emotional stance. Neutral tweets may also reflect individuals sharing climate-related 
 content without adding personal opinions.
-# Negative Sentiment (20%):
+## Negative Sentiment (20%):
 While the percentage of negative sentiment is smaller, it is still notable. Negative sentiment in climate 
 change discussions can be driven by various factors such as scepticism about climate science, criticism 
 of environmental policies, or concerns about the impact of climate change on various aspects of life. 
 Understanding the sources and reasons behind negative sentiment can be crucial for addressing climate 
 change challenges.
 
-# Further Analysis
+## Further Analysis
 
 To gain deeper insights into the sentiment patterns observed in this analysis, there are several avenues 
 for further exploration:
