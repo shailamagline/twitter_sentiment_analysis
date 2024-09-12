@@ -101,7 +101,8 @@ sentiment, indicating varying degrees of support, awareness, or engagement with 
 presence of negative sentiment underscores the diversity of opinions and perspectives within the 
 Twitter community.
 
-Implications
+# Implications
+
 Policy and Advocacy: Policymakers and advocacy groups can use these insights to tailor their 
 messaging and strategies to effectively engage with the public.
 Awareness Campaigns: Climate change awareness campaigns can leverage the positive sentiment to 
@@ -112,7 +113,8 @@ Research Directions: The project also opens avenues for further research, includ
 impact of sentiment on climate change discussions and exploring the factors influencing sentiment 
 trends.
 
-Future Work
+# Future Work
+
 Future work in this area could encompass the following:
 Sentiment Dynamics: Continuously monitoring sentiment trends to identify emerging patterns and 
 changes in public perception.
